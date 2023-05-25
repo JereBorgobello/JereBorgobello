@@ -19,12 +19,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
 
-###
-
 [![Currently Listening To:](https://https://novatorem-git-main-jereborgobello.vercel.app//api/spotify)](https://open.spotify.com/user/jbrrr)
-
-
-
-
-
-###
