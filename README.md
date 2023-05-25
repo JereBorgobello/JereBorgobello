@@ -1,35 +1,5 @@
 <img align="right" height="200" src="https://media.giphy.com/media/rgbAtUv07WAW4/giphy.gif"  />
 
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
 <p align="left">Hello World!!</p>
 
 ###
