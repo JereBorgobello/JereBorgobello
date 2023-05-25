@@ -2,6 +2,18 @@
 
 ###
 
+<p align="left">📚 Student at ORT Belgrano, Argentina</p>
+
+###
+
+<p align="left">📉 Terrible at Math</p>
+
+###
+
+<p align="left">⁉ Professional error maker</p>
+
+###
+
 <br clear="both">
 
 <div align="center">
