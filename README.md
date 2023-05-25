@@ -21,7 +21,9 @@
 
 ###
 
-(https://jereborgobello.vercel.app/api/spotify)](https://open.spotify.com/user/jbrrr)
+[![Currently Listening To:](https://https://novatorem-git-main-jereborgobello.vercel.app//api/spotify)](https://open.spotify.com/user/jbrrr)
+
+
 
 
 
