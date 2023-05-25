@@ -1,8 +1,6 @@
-<img align="right" height="200" src="https://media.giphy.com/media/rgbAtUv07WAW4/giphy.gif"  />
-
-###
-
-<p align="left">Hello World!!</p>
+<div align="right">
+  <img height="200" src="https://media.giphy.com/media/rgbAtUv07WAW4/giphy.gif"  />
+</div>
 
 ###
 
@@ -10,12 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JereBorgobello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JereBorgobello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JereBorgobello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2&custom_title=My GitHub Stats" height="150" alt="languages graph"  />
 </div>
 
 ###
