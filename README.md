@@ -21,7 +21,7 @@
 
 ###
 
-[![Spotify](https://jereborgobello.vercel.app/api/spotify)](https://open.spotify.com/user/jbrrr)
+(https://jereborgobello.vercel.app/api/spotify)](https://open.spotify.com/user/jbrrr)
 
 
 
