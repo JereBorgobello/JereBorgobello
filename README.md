@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://media.giphy.com/media/rgbAtUv07WAW4/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/rgbAtUv07WAW4/giphy.gif"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🗣 I know how to say Hello in over 20 different languages</p>
+<p align="left">🗣 I know how to say Hello in  over 20  different languages</p>
 
 ###
 
@@ -35,6 +35,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="75" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="75" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="60" width="75" alt="php logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://twitter.com/jbrrr_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCpjZZ6ij9GjuomqHXjVSZ4Q" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
