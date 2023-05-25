@@ -32,6 +32,7 @@
 <img src="https://raw.githubusercontent.com/JereBorgobello/JereBorgobello/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <div align="center">
 <img src="https://novatorem-git-main-jereborgobello.vercel.app/api/spotify" alt="Currently Listening" width="350" />
 </div>
