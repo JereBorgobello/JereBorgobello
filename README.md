@@ -16,5 +16,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="42" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
-###Currently Listening To
-[<img src="https://novatorem-git-main-jereborgobello.vercel.app/api/spotify" alt="Currently Listening" width="350" />]
+<img src="https://novatorem-git-main-jereborgobello.vercel.app/api/spotify" alt="Currently Listening" width="350" />
