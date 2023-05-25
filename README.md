@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🗣 I know how to say Hello in 10 different languages</p>
+<p align="left">🗣 I know how to say Hello in over 20 different languages</p>
 
 ###
 
