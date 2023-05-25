@@ -1,3 +1,7 @@
+<br clear="both">
+
+<img align="right" height="200" src="https://media.giphy.com/media/rgbAtUv07WAW4/giphy.gif"  />
+
 ###
 
 <div align="center">
@@ -17,6 +21,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
 
+###
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JereBorgobello/JereBorgobello/output/snake.svg" alt="Snake animation" />
+
+###
 <div align="center">
 <img src="https://novatorem-git-main-jereborgobello.vercel.app/api/spotify" alt="Currently Listening" width="350" />
 </div>
