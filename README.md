@@ -46,6 +46,13 @@
   <a href="https://www.youtube.com/channel/UCpjZZ6ij9GjuomqHXjVSZ4Q" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
+    <a href="https://leetcode.com/JereBorgobello/" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Fleetcode-icon_1.png&f=1&nofb=1&ipt=47ed86dc170f9c3bb03e48bcb7d43e52cf7156d5aa4b485fa9d683e56d981c47&ipo=images" width="52" height="40" alt="leetcode logo"  />
+  </a>
+      <a href="https://stackoverflow.com/users/19253122/jbr" target="_blank">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fstackoverflow_logo_icon_167968.png&f=1&nofb=1&ipt=b1b890d31d544d9d4b46b7804f7aae5c97f4059882845f8031aaee9f65cf0999&ipo=images" width="52" height="40" alt="leetcode logo"  />
+  </a>
+  
 </div>
 
 ###
