@@ -58,5 +58,8 @@
 ###
 
 <div align="center">
+  </a>
+  <a href="https://open.spotify.com/user/ygpalgax489j46wkt8zhv5uxj" target="spotify">
 <img src="https://novatorem-git-main-jereborgobello.vercel.app/api/spotify" alt="Currently Listening" width="350" />
+</a>
 </div>
