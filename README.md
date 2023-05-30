@@ -14,10 +14,6 @@
 
 ###
 
-<p align="left">🗣 I know how to say Hello in  over 20  different languages</p>
-
-###
-
 <br clear="both">
 
 <div align="center">
